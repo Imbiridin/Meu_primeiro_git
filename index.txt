@@ -4,4 +4,4 @@ Meu primeiro commit - 1
 
 Meu segundo commit - 2
 
-Meu terceiro commit
+Meu terceiro commit - 3
