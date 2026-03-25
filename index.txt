@@ -2,6 +2,6 @@ Meu primeiro GIT
 
 Meu primeiro commit 
 
-Meu segundo commit
+Meu segundo commit - 2
 
 Meu terceiro commit
